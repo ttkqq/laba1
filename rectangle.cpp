@@ -4,7 +4,7 @@
 #include <locale.h>
 
 using namespace std;
-using ushort_int = unsigned short int;
+using ushort_int = short int;
 
 float area(ushort_int a, ushort_int b) {
     float ar = (a * b);
