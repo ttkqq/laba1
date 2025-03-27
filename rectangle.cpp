@@ -37,7 +37,7 @@ float diagonal(ushort_int a, ushort_int b) {
 
 int main() {
     setlocale(LC_ALL, "rus");
-    cout << "это программа для счёта периметра, площади и длины диагонали прямоугольника" << endl;
+    cout << "Eто программа для счёта периметра, площади и длины диагонали прямоугольника" << endl;
     ushort_int a = 0;
     cout << "Введите сторону номер один: ";
     cin >> a;
