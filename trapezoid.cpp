@@ -58,7 +58,7 @@ int main(){
     if (check(a, b, c, d) == 1){
         cout << "Периметр трапеции: " << perimeter(a, b, c, d) << endl;
         cout << "Площадь трапеции: " << area(a,b,c,d) << endl;
-        cout << "Длина средней линии трапеции: " << midline_length(a,b) << endl;
+        cout << "Длина средней линии трапеции111: " << midline_length(a,b) << endl;
     }
     else{
         cout<<"данной трапеци не существует, пожалуйста введите другие числа"<<endl;
