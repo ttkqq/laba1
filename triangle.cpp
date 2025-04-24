@@ -43,7 +43,7 @@ int main() {
     if (check(a, b, c) == 1) {
         cout << "Периметр треугольника: " << perim(a, b, c) << endl;
         cout << "Площадь треугольника: " << areaGeron(a, b, c) << endl;
-        cout << "Проверка на равнобедренность: " << isosceles(a, b, c) << endl;
+        cout << "gПроверка на равнобедренность: " << isosceles(a, b, c) << endl;
     } else {
         cout << "nТреугольника не существует" << endl;
     }
